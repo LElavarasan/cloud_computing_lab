@@ -9,7 +9,7 @@ public class Add
         String Kav_no="22MCR050";
         System.out.println(Kav_no);
         System.out.println("Finally comple the task");
-        int a=22;
+        int a=23;
         int b=50;
 
 
