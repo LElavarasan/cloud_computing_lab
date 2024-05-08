@@ -11,6 +11,8 @@ public class Add
         System.out.println("Finally comple the task");
         int a=22;
         int b=50;
+        int c=a+b;
+        System.out.println(c);
 
 
     }
