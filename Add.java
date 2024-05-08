@@ -10,7 +10,7 @@ public class Add
         System.out.println(Kav_no);
         System.out.println("Finally comple the task");
 
-        int a=23;
+        int a=22;
 
 
     }
